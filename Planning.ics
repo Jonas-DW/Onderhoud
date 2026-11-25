@@ -8,7 +8,7 @@ BEGIN:VEVENT
 UID:purifo-maand@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261203
-SUMMARY:🔵 Purifo TRIO - filter 1 reinigen
+SUMMARY:💧 Purifo TRIO - filter 1 reinigen
 DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
 RRULE:FREQ=YEARLY;BYMONTH=1,2,3,5,6,7,8,9,11,12;BYMONTHDAY=3
 TRANSP:TRANSPARENT
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 UID:purifo-halfjaar@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
-SUMMARY:🔵 Purifo TRIO - filters 2 en 3 vervangen
+SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
 DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
 RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
 TRANSP:TRANSPARENT
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 UID:vasco-reinigen@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270103
-SUMMARY:🔵 Vasco DX4 - filters reinigen
+SUMMARY:🌬️ Vasco DX4 - filters reinigen
 DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
 RRULE:FREQ=YEARLY;BYMONTH=1,7;BYMONTHDAY=3
 TRANSP:TRANSPARENT
@@ -41,7 +41,7 @@ BEGIN:VEVENT
 UID:vasco-vervangen@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
-SUMMARY:🔵 Vasco DX4 - filters vervangen
+SUMMARY:🌬️ Vasco DX4 - filters vervangen
 DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
 RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
 TRANSP:TRANSPARENT
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270102
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Winterrust tuin\nLaat prairieplanten en 
  siergrassen staan voor insecten en win
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-2@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270206
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Blauweregen wintersnoei\nKort de zijtakk
  en van de blauweregen in tot circa 2 a 3 knopp
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-3@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270306
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Prairieplanten en siergrassen snoeien\nK
  nip oude stengels en siergrassen terug tot circa 10 a 15 cm \n\nGardena 
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Gazon bemesten en borders verzorgen\nGee
  f het gazon passende voorjaarsbemesting volgens productdos\n\nTerras - t
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-5@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270501
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Onkruid verwijderen en jonge planten con
  troleren\nWied onkruid met wortel en controleer jonge aanplant. Geef bi
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-6@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270605
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Vaste planten en gazon verzorgen\nVerwij
  der storend onkruid\, controleer steunbehoefte van hoge\n\nGardena SILEN
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270703
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Blauweregen zomersnoei\nKort lange nieuw
  e zijscheuten in tot circa 5 a 6 bladeren. Le\n\nGardena SILENO minimo -
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-8@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270807
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Blauweregen en droogtecontrole\nControle
  er nieuwe uitlopers en snoei zo nodig bij. Kijk of jo\n\nGardena SILENO 
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-9@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270904
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Gazon herstellen en vaste planten delen\
  nZaai kale plekken bij bij geschikt weer en voldoende bodemvoc
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271002
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Herfstonderhoud tuin\nHaal blad van het 
  gazon en uit afvoerpunten. Laat zaadhoofden\n\nTerras - tegels\, voegen 
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-11@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271106
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Tuin winterklaar maken\nControleer klimp
  lanten\, boombanden en losse takken. Gebruik \n\nGardena SILENO minimo -
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 UID:buiten-weekend-12@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271204
-SUMMARY:🔵 Tuin\, terras en Gardena - maandonderhoud
+SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
 DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
  weer en groeistadium.\n\nTuin - Winterrust en controle\nLaat siergrassen
   en zaadhoofden staan. Controleer na storm op
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 UID:purifo-dec-2026@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261203
-SUMMARY:🔵 Purifo TRIO - filter 1 reinigen
+SUMMARY:💧 Purifo TRIO - filter 1 reinigen
 DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 UID:woning-maand@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261219
-SUMMARY:🔵 Maandelijks woningonderhoud - doucheafvoer en zonnepanelen
+SUMMARY:🏠 Maandelijks woningonderhoud - doucheafvoer en zonnepanelen
 DESCRIPTION:1. Doucheafvoer reinigen\nVerwijder het rooster en de uitneem
  bare haarvanger of sifonin\n\n2. Zonnepanelen - maandopbrengst controler
  en\nOpen de monitoringapp (bij Huawei vaak FusionSolar). Controle
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 UID:kwartaalonderhoud-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270109
-SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
+SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
  troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
@@ -270,7 +270,7 @@ BEGIN:VEVENT
 UID:kwartaalonderhoud-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270410
-SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
+SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
  troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 UID:kwartaalonderhoud-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270710
-SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
+SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
  troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 UID:kwartaalonderhoud-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271009
-SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
+SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
  troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
@@ -328,7 +328,7 @@ UID:technisch-jaar@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20271001
-SUMMARY:🟢 Jaarlijkse technische controle woning
+SUMMARY:🛠️ Jaarlijkse technische controle woning
 DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamh
  eden aan elektrische installaties\, koelmiddelcircuit of besloten ruimte
  n over aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleer
