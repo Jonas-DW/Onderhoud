@@ -10,7 +10,7 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:🔵 Purifo TRIO - filter 1 reinigen
 DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
-RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+RRULE:FREQ=YEARLY;BYMONTH=1,2,3,5,6,7,8,9,11,12;BYMONTHDAY=3
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
@@ -47,100 +47,6 @@ RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:doucheafvoer@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20261205
-SUMMARY:🔵 Doucheafvoer reinigen
-DESCRIPTION:Verwijder het rooster en de uitneembare haarvanger of sifonin
-RRULE:FREQ=MONTHLY;BYDAY=1SA
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:pv-opbrengst@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20261205
-SUMMARY:🔵 Zonnepanelen - maandopbrengst controleren
-DESCRIPTION:Open de monitoringapp (bij Huawei vaak FusionSolar). Controle
-RRULE:FREQ=MONTHLY;BYDAY=1SA
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:warmtepomp-service@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20271001
-SUMMARY:🟢 Toshiba ESTIA R32 - onderhoud en winterinstellingen
-DESCRIPTION:Controleer of professioneel onderhoud nodig is volgens model\
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
-END:VEVENT
-BEGIN:VEVENT
-UID:regenput-jaar@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20271001
-SUMMARY:🟢 Regenwaterput - jaarlijkse inspectie
-DESCRIPTION:Controleer vanaf een veilige positie de toegankelijke putdeks
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
-END:VEVENT
-BEGIN:VEVENT
-UID:regen-niveau-4@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270501
-SUMMARY:🟢 Regenwater - niveau en toevoer controleren
-DESCRIPTION:Controleer regenwaterniveau indien veilig zichtbaar\, werking
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
-END:VEVENT
-BEGIN:VEVENT
-UID:regen-niveau-9@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20271001
-SUMMARY:🟢 Regenwater - niveau en toevoer controleren
-DESCRIPTION:Controleer regenwaterniveau indien veilig zichtbaar\, werking
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
-END:VEVENT
-BEGIN:VEVENT
-UID:pv-jaar@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270101
-DTEND;VALUE=DATE:20270201
-SUMMARY:🟢 Zonnepanelen - jaaropbrengst vergelijken
-DESCRIPTION:Noteer de totale productie van het vorige kalenderjaar via de
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
-END:VEVENT
-BEGIN:VEVENT
-UID:technisch-jaar@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20271001
-SUMMARY:🟢 Technische installaties - jaarlijkse opvolging
-DESCRIPTION:Loop onderhoudsrapporten en meldingen van warmtepomp\, regenw
-RRULE:FREQ=YEARLY
-TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:buiten-weekend-1@jonas-dw-onderhoud
@@ -320,17 +226,42 @@ CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
+UID:purifo-dec-2026@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:🔵 Purifo TRIO - filter 1 reinigen
+DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:woning-maand@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20261219
+SUMMARY:🔵 Maandelijks woningonderhoud - doucheafvoer en zonnepanelen
+DESCRIPTION:1. Doucheafvoer reinigen\nVerwijder het rooster en de uitneem
+ bare haarvanger of sifonin\n\n2. Zonnepanelen - maandopbrengst controler
+ en\nOpen de monitoringapp (bij Huawei vaak FusionSolar). Controle
+RRULE:FREQ=MONTHLY;BYDAY=3SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
 UID:kwartaalonderhoud-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270102
+DTSTART;VALUE=DATE:20270109
 SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
  troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
  pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
  roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
- oleer in de monitoringapp of de omvormer online is\, nor
-RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SA
+ oleer in de monitoringapp of de omvormer online is\, nor\n\nJaarlijkse o
+ pbrengst zonnepanelen\nNoteer de totale productie van het vorige kalende
+ rjaar via de
+RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
@@ -338,7 +269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kwartaalonderhoud-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270403
+DTSTART;VALUE=DATE:20270410
 SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
@@ -349,8 +280,9 @@ DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  Huawei-omvormer - status en alarmen controleren\nControleer in de monito
  ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
  e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
- de\, zw
-RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SA
+ de\, zw\n\nRegenwaterniveau en toevoer\nControleer regenwaterniveau indi
+ en veilig zichtbaar\, werking
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
@@ -358,7 +290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kwartaalonderhoud-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270703
+DTSTART;VALUE=DATE:20270710
 SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
@@ -366,7 +298,7 @@ DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
  roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
  oleer in de monitoringapp of de omvormer online is\, nor
-RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=1SA
+RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
@@ -374,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:kwartaalonderhoud-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20271002
+DTSTART;VALUE=DATE:20271009
 SUMMARY:🔵 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
@@ -386,9 +318,28 @@ DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
  ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
  e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
  de\, zw
-RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SA
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:technisch-jaar@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271001
+SUMMARY:🟢 Jaarlijkse technische controle woning
+DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamh
+ eden aan elektrische installaties\, koelmiddelcircuit of besloten ruimte
+ n over aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleer
+  of professioneel onderhoud nodig is volgens model\\\n\n2. Regenwaterput
+  inspecteren\nControleer vanaf een veilige positie de toegankelijke putd
+ eks\n\n3. Regenwaterniveau en toevoer\nControleer regenwaterniveau indie
+ n veilig zichtbaar\, werking\n\n4. Algemene technische opvolging\nLoop o
+ nderhoudsrapporten en meldingen van warmtepomp\, regenw
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 END:VCALENDAR
