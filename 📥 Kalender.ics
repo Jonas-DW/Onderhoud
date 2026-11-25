@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Copilot//Tuin en woning onderhoud//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tuin en woning onderhoud
+X-WR-TIMEZONE:Europe/Brussels
+BEGIN:VEVENT
+UID:purifo-month@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:Purifo TRIO - filter 1 reinigen
+DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Filte
+ rs 2 en 3 worden halfjaarlijks vervangen.
+RRULE:FREQ=MONTHLY;BYMONTHDAY=3
+END:VEVENT
+BEGIN:VEVENT
+UID:purifo-replace@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Purifo TRIO - filters 2 en 3 vervangen
+DESCRIPTION:Vervang het 25 micron filter en het actievekoolfilter. Reinig
+  ook filter 1 (aparte maandelijkse herinnering).
+RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-clean@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270103
+SUMMARY:Vasco DX4 - ventilatiefilters reinigen
+DESCRIPTION:Reinig de ventilatiefilters voorzichtig volgens de Vasco-hand
+ leiding.
+RRULE:FREQ=YEARLY;BYMONTH=1,7;BYMONTHDAY=3
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-replace@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:Vasco DX4 - ventilatiefilters vervangen
+DESCRIPTION:Vervang de ventilatiefilters\; controleer het juiste filterty
+ pe en reset zo nodig de filtermelding.
+RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-wisteria-winter@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270215
+SUMMARY:Tuin - blauweregen wintersnoei
+DESCRIPTION:Kort zijscheuten in tot 2 a 3 knoppen.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-prairie@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270315
+SUMMARY:Tuin - prairieplanten en siergrassen snoeien
+DESCRIPTION:Snoei droge stengels en grassen terug voordat nieuwe groei be
+ gint\; verwijder onkruid.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-spring@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270415
+SUMMARY:Tuin - gazon bemesten en borders controleren
+DESCRIPTION:Voorjaarsbemesting gazon\; compost alleen waar nodig.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-weeding@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270515
+SUMMARY:Tuin - onkruid en jonge aanplant controleren
+DESCRIPTION:Verwijder onkruid en geef nieuwe planten water bij droogte.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-june@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270615
+SUMMARY:Tuin - vaste planten en gazon verzorgen
+DESCRIPTION:Controleer bloei\, onkruid en maai gazon naar behoefte.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-wisteria-summer@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270715
+SUMMARY:Tuin - blauweregen zomersnoei
+DESCRIPTION:Kort lange zijscheuten in tot 5 a 6 bladeren\; houd onder muu
+ rhoogte.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-august@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270815
+SUMMARY:Tuin - blauweregen en droogtecontrole
+DESCRIPTION:Controleer uitlopers en geef water bij langdurige droogte.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-september@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270915
+SUMMARY:Tuin - gazon herstellen en vaste planten delen
+DESCRIPTION:Herstel kale plekken\; deel geschikte vaste planten indien no
+ dig.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-october@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271015
+SUMMARY:Tuin - herfstonderhoud
+DESCRIPTION:Verwijder bladeren van gazon\; laat prairieplanten grotendeel
+ s staan.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-november@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271115
+SUMMARY:Tuin - wintercontrole
+DESCRIPTION:Controleer boom en klimplanten\; gebruik bladeren als mulch w
+ aar passend.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-december@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271215
+SUMMARY:Tuin - winterrust
+DESCRIPTION:Laat siergrassen en zaadhoofden staan\; controleer bij storm.
+RRULE:FREQ=YEARLY
+END:VEVENT
+BEGIN:VEVENT
+UID:garden-january@copilot-maintenance
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270115
+SUMMARY:Tuin - winterrust
+DESCRIPTION:Laat dode stengels staan voor winterstructuur en insecten.
+RRULE:FREQ=YEARLY
+END:VEVENT
+END:VCALENDAR
