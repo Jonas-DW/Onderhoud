@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Jonas DW//Onderhoudskalender//NL
+PRODID:-//Jonas DW//Onderhoud woning en tuin//NL
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tuin en woning onderhoud
@@ -8,164 +8,784 @@ BEGIN:VEVENT
 UID:purifo-maand@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261203
-SUMMARY:Purifo TRIO - filter 1 reinigen
-DESCRIPTION:Reinig het 90 micron voorfilter.
+SUMMARY:🔵 Purifo TRIO - filter 1 reinigen
+DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
+  zo nodig de watertoevoer af en maak de installatie drukloos voordat je 
+ de filterbehuizing opent. Controleer afdichting en lekkage na montage. F
+ ilters 2 en 3 worden apart halfjaarlijks vervangen.
 RRULE:FREQ=MONTHLY;BYMONTHDAY=3
 TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
 UID:purifo-halfjaar@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
-SUMMARY:Purifo TRIO - filters 2 en 3 vervangen
-DESCRIPTION:Vervang 25 micron filter en actievekoolfilter\; reinig filter
-  1.
+SUMMARY:🔵 Purifo TRIO - filters 2 en 3 vervangen
+DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
+ te vervangpatronen. Volg de handleiding voor afsluiten\, drukloos maken\
+ , spoelen en eventuele ontluchting. Reinig ook filter 1 en controleer al
+ le behuizingen op lekkage.
 RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
 TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
 UID:vasco-reinigen@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270103
-SUMMARY:Vasco DX4 - filters reinigen
-DESCRIPTION:Reinig de ventilatiefilters volgens de handleiding.
+SUMMARY:🔵 Vasco DX4 - filters reinigen
+DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
+ nd. Neem de filters uit\, verwijder los stof voorzichtig met stofzuiger 
+ volgens Vasco-voorschrift\, plaats correct terug en controleer luchtstro
+ om. Niet nat reinigen tenzij filtertype dit toestaat.
 RRULE:FREQ=YEARLY;BYMONTH=1,7;BYMONTHDAY=3
 TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
 UID:vasco-vervangen@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
-SUMMARY:Vasco DX4 - filters vervangen
-DESCRIPTION:Vervang de ventilatiefilters en reset indien nodig de filterm
- elding.
+SUMMARY:🔵 Vasco DX4 - filters vervangen
+DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
+ stroomrichting. Reinig indien nodig de filterhouders\; sluit de unit en 
+ reset de filtermelding volgens de handleiding. Controleer of de ventilat
+ ie weer normaal draait.
 RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
 TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270201
-SUMMARY:Tuin - Winterrust tuin
+SUMMARY:🟢 Tuin - Winterrust tuin
 DESCRIPTION:Laat prairieplanten en siergrassen staan voor insecten en win
- terstructuur.
+ terstructuur. Verwijder alleen gevaarlijk loshangende takken en controle
+ er na storm.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-2@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270301
-SUMMARY:Tuin - Blauweregen wintersnoei
-DESCRIPTION:Kort zijscheuten in tot 2 a 3 knoppen.
+SUMMARY:🟢 Tuin - Blauweregen wintersnoei
+DESCRIPTION:Kort de zijtakken van de blauweregen in tot circa 2 a 3 knopp
+ en. Verwijder dood hout en controleer de bevestiging aan de betonnen muu
+ r\; behoud de gewenste muurhoogte.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-3@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270401
-SUMMARY:Tuin - Prairieplanten en siergrassen snoeien
-DESCRIPTION:Snoei voor de nieuwe groei tot circa 10 a 15 cm\; verwijder o
- nkruid.
+SUMMARY:🟢 Tuin - Prairieplanten en siergrassen snoeien
+DESCRIPTION:Knip oude stengels en siergrassen terug tot circa 10 a 15 cm 
+ voordat de nieuwe groei start. Voer snoeiafval af of versnipper het gesc
+ hikt materiaal\; verwijder opkomend onkruid.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270501
-SUMMARY:Tuin - Gazon bemesten en borders verzorgen
-DESCRIPTION:Voorjaarsbemesting gazon\; compost alleen waar nodig.
+SUMMARY:🟢 Tuin - Gazon bemesten en borders verzorgen
+DESCRIPTION:Geef het gazon passende voorjaarsbemesting volgens productdos
+ ering. Controleer kale plekken en borders\; voeg alleen waar nodig compo
+ st toe en vermijd overbemesting van prairieplanten.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-5@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270601
-SUMMARY:Tuin - Onkruid verwijderen en jonge planten controleren
-DESCRIPTION:Geef jonge planten water bij droogte.
+SUMMARY:🟢 Tuin - Onkruid verwijderen en jonge planten controleren
+DESCRIPTION:Wied onkruid met wortel en controleer jonge aanplant. Geef bi
+ j droogte liever minder vaak maar grondig water\; let op vochtigheid van
+  de bodem.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-6@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270701
-SUMMARY:Tuin - Vaste planten en gazon verzorgen
-DESCRIPTION:Controleer bloei en onkruid\; maai gazon naar behoefte.
+SUMMARY:🟢 Tuin - Vaste planten en gazon verzorgen
+DESCRIPTION:Verwijder storend onkruid\, controleer steunbehoefte van hoge
+  planten en maai het gazon regelmatig. Snoei het krentenboompje alleen l
+ icht indien nodig en bij voorkeur na de bloei.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270801
-SUMMARY:Tuin - Blauweregen zomersnoei
-DESCRIPTION:Kort lange zijscheuten in tot 5 a 6 bladeren\; houd de plant 
- binnen muurhoogte.
+SUMMARY:🟢 Tuin - Blauweregen zomersnoei
+DESCRIPTION:Kort lange nieuwe zijscheuten in tot circa 5 a 6 bladeren. Le
+ id gewenste takken langs de muur en verwijder groei boven de afgesproken
+  muurhoogte. Controleer de bevestigingen.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-8@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270901
-SUMMARY:Tuin - Blauweregen en droogtecontrole
-DESCRIPTION:Controleer uitlopers\; geef water bij langdurige droogte.
+SUMMARY:🟢 Tuin - Blauweregen en droogtecontrole
+DESCRIPTION:Controleer nieuwe uitlopers en snoei zo nodig bij. Kijk of jo
+ nge planten en het krentenboompje extra water nodig hebben bij langdurig
+ e droogte.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-9@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20271001
-SUMMARY:Tuin - Gazon herstellen en vaste planten delen
-DESCRIPTION:Herstel kale plekken en deel geschikte vaste planten indien n
- odig.
+SUMMARY:🟢 Tuin - Gazon herstellen en vaste planten delen
+DESCRIPTION:Zaai kale plekken bij bij geschikt weer en voldoende bodemvoc
+ ht. Deel te groot geworden geschikte vaste planten en geef verplaatste p
+ lanten water.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271101
-SUMMARY:Tuin - Herfstonderhoud tuin
-DESCRIPTION:Verwijder bladeren van het gazon\; laat prairieplanten groten
- deels staan.
+SUMMARY:🟢 Tuin - Herfstonderhoud tuin
+DESCRIPTION:Haal blad van het gazon en uit afvoerpunten. Laat zaadhoofden
+  en siergrassen in de borders zoveel mogelijk staan voor biodiversiteit 
+ en winterstructuur.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-11@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271201
-SUMMARY:Tuin - Tuin winterklaar maken
-DESCRIPTION:Controleer boom en klimplanten\; gebruik bladeren als mulch w
- aar passend.
+SUMMARY:🟢 Tuin - Tuin winterklaar maken
+DESCRIPTION:Controleer klimplanten\, boombanden en losse takken. Gebruik 
+ gezond blad als mulch in borders en houd afvoeren en looppaden vrij.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 BEGIN:VEVENT
 UID:tuin-12@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20280101
-SUMMARY:Tuin - Winterrust en controle
-DESCRIPTION:Laat siergrassen en zaadhoofden staan\; controleer na storm.
+SUMMARY:🟢 Tuin - Winterrust en controle
+DESCRIPTION:Laat siergrassen en zaadhoofden staan. Controleer na storm op
+  schade\, losgeraakte bevestigingen en geblokkeerde afvoeren.
 RRULE:FREQ=YEARLY
 TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:doucheafvoer@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:🔵 Doucheafvoer reinigen
+DESCRIPTION:Verwijder het rooster en de uitneembare haarvanger of sifonin
+ zet volgens de handleiding. Haal haren en zeepresten weg\, spoel onderde
+ len met warm water en plaats ze correct terug. Controleer of het water v
+ lot wegloopt en of de stankafsluiter goed zit. Vermijd agressieve ontsto
+ ppers en meng nooit reinigingsmiddelen.
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-opbrengst@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:🔵 Zonnepanelen - maandopbrengst controleren
+DESCRIPTION:Open de monitoringapp (bij Huawei vaak FusionSolar). Controle
+ er actuele productie\, eventuele alarmen en of de gegevens recent zijn. 
+ Vergelijk de maandopbrengst met dezelfde maand vorig jaar\; houd rekenin
+ g met weer en seizoenen. Noteer opvallende afwijkingen.
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-reinigen@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:🔵 Gardena SILENO minimo - reinigen
+DESCRIPTION:Schakel de robotmaaier uit volgens de handleiding en draag ha
+ ndschoenen. Verwijder grasresten van behuizing\, wielen en maaigedeelte 
+ met een zachte borstel of vochtige doek volgens de handleiding. Controle
+ er of wielen vrij draaien en sensoren schoon zijn. Gebruik geen hogedruk
+ reiniger.
+RRULE:FREQ=YEARLY;BYMONTH=3,4,5,6,7,8,9,10;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:terras-check-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Terras - tegels\, voegen en afwatering controleren
+DESCRIPTION:Loop het terras na op losse of verzakte tegels\, open voegen 
+ en scheuren. Controleer afschot\, afvoerputjes en plasvorming na regen. 
+ Maak foto’s van veranderingen en herstel gevaarlijke oneffenheden tijd
+ ig.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:terras-check-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Terras - tegels\, voegen en afwatering controleren
+DESCRIPTION:Loop het terras na op losse of verzakte tegels\, open voegen 
+ en scheuren. Controleer afschot\, afvoerputjes en plasvorming na regen. 
+ Maak foto’s van veranderingen en herstel gevaarlijke oneffenheden tijd
+ ig.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:terras-reinigen@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270401
+SUMMARY:🟢 Terras - voorjaarsreiniging
+DESCRIPTION:Veeg bladeren en vuil weg\, reinig met een voor de tegelsoort
+  geschikt middel en een zachte borstel. Vermijd te hoge waterdruk op voe
+ gen of kwetsbare tegels. Maak afvoerpunten vrij en controleer na het rei
+ nigen op schade.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-mescheck-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Gardena SILENO minimo - mesjes controleren
+DESCRIPTION:Schakel de maaier volledig uit en draag handschoenen. Control
+ eer alle mesjes op slijtage\, scheuren en vrije beweging. Vervang indien
+  nodig de volledige set inclusief schroeven volgens Gardena-voorschrift 
+ om onbalans te voorkomen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-mescheck-6@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270701
+SUMMARY:🟢 Gardena SILENO minimo - mesjes controleren
+DESCRIPTION:Schakel de maaier volledig uit en draag handschoenen. Control
+ eer alle mesjes op slijtage\, scheuren en vrije beweging. Vervang indien
+  nodig de volledige set inclusief schroeven volgens Gardena-voorschrift 
+ om onbalans te voorkomen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-mescheck-8@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270901
+SUMMARY:🟢 Gardena SILENO minimo - mesjes controleren
+DESCRIPTION:Schakel de maaier volledig uit en draag handschoenen. Control
+ eer alle mesjes op slijtage\, scheuren en vrije beweging. Vervang indien
+  nodig de volledige set inclusief schroeven volgens Gardena-voorschrift 
+ om onbalans te voorkomen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-laadstation-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Gardena SILENO minimo - laadstation controleren
+DESCRIPTION:Controleer of de maaier betrouwbaar dockt en laadt. Verwijder
+  gras en vuil rond het station\, inspecteer zichtbare kabels en contacte
+ n op beschadiging en controleer of het station stevig en vlak staat. Wer
+ k niet aan onder spanning staande aansluitingen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-laadstation-7@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:🟢 Gardena SILENO minimo - laadstation controleren
+DESCRIPTION:Controleer of de maaier betrouwbaar dockt en laadt. Verwijder
+  gras en vuil rond het station\, inspecteer zichtbare kabels en contacte
+ n op beschadiging en controleer of het station stevig en vlak staat. Wer
+ k niet aan onder spanning staande aansluitingen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-laadstation-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Gardena SILENO minimo - laadstation controleren
+DESCRIPTION:Controleer of de maaier betrouwbaar dockt en laadt. Verwijder
+  gras en vuil rond het station\, inspecteer zichtbare kabels en contacte
+ n op beschadiging en controleer of het station stevig en vlak staat. Wer
+ k niet aan onder spanning staande aansluitingen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-winter@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271201
+SUMMARY:🟢 Gardena SILENO minimo - winterstalling
+DESCRIPTION:Reinig en inspecteer de robot\, verwijder grasresten en contr
+ oleer mesjes. Laad de accu en schakel het toestel uit volgens de specifi
+ eke handleiding. Bewaar de maaier droog en vorstvrij. Maak laadstation\,
+  voeding en kabels winterklaar volgens Gardena-instructies\; noteer even
+ tuele defecten voor het voorjaar.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:robot-start@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270401
+SUMMARY:🟢 Gardena SILENO minimo - opstarten en begrenzingsdraad contro
+ leren
+DESCRIPTION:Controleer eerst de volledige zichtbare route van begrenzings
+ draad en eventuele geleidingsdraad op graafschade\, losse verbindingen e
+ n blootliggende stukken. Controleer aansluitingen\, laadstation\, voedin
+ g en indicatorlampjes. Plaats de robot terug\, controleer mesjes\, laads
+ tatus en maaischema. Voer een korte proefrit uit langs de randen en cont
+ roleer of de maaier de draad correct volgt. Herstel kabelbreuken alleen 
+ met geschikte waterdichte koppelingen en spanningsloos.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-kwartaal-1@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:🟢 Toshiba ESTIA R32 - kwartaalcontrole
+DESCRIPTION:Controleer de systeemdruk aan de hand van de installatiehandl
+ eiding en de door installateur opgegeven normale waarde. Inspecteer de b
+ uitenunit op bladeren\, obstakels\, ijsvorming buiten normale ontdooicyc
+ li\, lekkage en ongebruikelijke geluiden. Controleer meldingen op het be
+ dieningspaneel. Open geen koelmiddelcircuit of elektrische delen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-kwartaal-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Toshiba ESTIA R32 - kwartaalcontrole
+DESCRIPTION:Controleer de systeemdruk aan de hand van de installatiehandl
+ eiding en de door installateur opgegeven normale waarde. Inspecteer de b
+ uitenunit op bladeren\, obstakels\, ijsvorming buiten normale ontdooicyc
+ li\, lekkage en ongebruikelijke geluiden. Controleer meldingen op het be
+ dieningspaneel. Open geen koelmiddelcircuit of elektrische delen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-kwartaal-7@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:🟢 Toshiba ESTIA R32 - kwartaalcontrole
+DESCRIPTION:Controleer de systeemdruk aan de hand van de installatiehandl
+ eiding en de door installateur opgegeven normale waarde. Inspecteer de b
+ uitenunit op bladeren\, obstakels\, ijsvorming buiten normale ontdooicyc
+ li\, lekkage en ongebruikelijke geluiden. Controleer meldingen op het be
+ dieningspaneel. Open geen koelmiddelcircuit of elektrische delen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-kwartaal-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Toshiba ESTIA R32 - kwartaalcontrole
+DESCRIPTION:Controleer de systeemdruk aan de hand van de installatiehandl
+ eiding en de door installateur opgegeven normale waarde. Inspecteer de b
+ uitenunit op bladeren\, obstakels\, ijsvorming buiten normale ontdooicyc
+ li\, lekkage en ongebruikelijke geluiden. Controleer meldingen op het be
+ dieningspaneel. Open geen koelmiddelcircuit of elektrische delen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-halfjaar-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Toshiba ESTIA R32 - buitenunit en condensafvoer controleren
+DESCRIPTION:Verwijder los vuil rondom de buitenunit zodat aan- en afvoer 
+ van lucht vrij blijven. Controleer visueel of condenswater vrij wegloopt
+  en afvoer niet verstopt is. Reinig kwetsbare lamellen alleen volgens de
+  handleiding\; gebruik geen hogedrukspuit. Bij ijs- of lekkageproblemen 
+ contacteer de installateur.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-halfjaar-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Toshiba ESTIA R32 - buitenunit en condensafvoer controleren
+DESCRIPTION:Verwijder los vuil rondom de buitenunit zodat aan- en afvoer 
+ van lucht vrij blijven. Controleer visueel of condenswater vrij wegloopt
+  en afvoer niet verstopt is. Reinig kwetsbare lamellen alleen volgens de
+  handleiding\; gebruik geen hogedrukspuit. Bij ijs- of lekkageproblemen 
+ contacteer de installateur.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:warmtepomp-service@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271001
+SUMMARY:🟢 Toshiba ESTIA R32 - onderhoud en winterinstellingen
+DESCRIPTION:Controleer of professioneel onderhoud nodig is volgens model\
+ , koelmiddelinhoud\, garantievoorwaarden en regelgeving. Laat een vakman
+  installatie\, waterzijdige componenten\, veiligheid en eventuele foutme
+ ldingen beoordelen. Controleer verwarmingsprogramma\, gewenste temperatu
+ ren en warmwaterinstellingen voor de winter.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regenpomp-kwartaal-1@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:🟢 Regenwaterpomp - kwartaalcontrole
+DESCRIPTION:Laat een aangesloten tappunt kort lopen en controleer of de p
+ omp normaal start en stopt. Luister naar afwijkende geluiden en kijk naa
+ r zichtbare lekkages\, drukverlies of veelvuldig schakelen. Controleer a
+ anwezige voorfilters volgens de handleiding en maak ze zo nodig schoon. 
+ Schakel spanning uit voor werkzaamheden aan de pomp.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regenpomp-kwartaal-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Regenwaterpomp - kwartaalcontrole
+DESCRIPTION:Laat een aangesloten tappunt kort lopen en controleer of de p
+ omp normaal start en stopt. Luister naar afwijkende geluiden en kijk naa
+ r zichtbare lekkages\, drukverlies of veelvuldig schakelen. Controleer a
+ anwezige voorfilters volgens de handleiding en maak ze zo nodig schoon. 
+ Schakel spanning uit voor werkzaamheden aan de pomp.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regenpomp-kwartaal-7@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:🟢 Regenwaterpomp - kwartaalcontrole
+DESCRIPTION:Laat een aangesloten tappunt kort lopen en controleer of de p
+ omp normaal start en stopt. Luister naar afwijkende geluiden en kijk naa
+ r zichtbare lekkages\, drukverlies of veelvuldig schakelen. Controleer a
+ anwezige voorfilters volgens de handleiding en maak ze zo nodig schoon. 
+ Schakel spanning uit voor werkzaamheden aan de pomp.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regenpomp-kwartaal-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Regenwaterpomp - kwartaalcontrole
+DESCRIPTION:Laat een aangesloten tappunt kort lopen en controleer of de p
+ omp normaal start en stopt. Luister naar afwijkende geluiden en kijk naa
+ r zichtbare lekkages\, drukverlies of veelvuldig schakelen. Controleer a
+ anwezige voorfilters volgens de handleiding en maak ze zo nodig schoon. 
+ Schakel spanning uit voor werkzaamheden aan de pomp.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regenput-jaar@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271001
+SUMMARY:🟢 Regenwaterput - jaarlijkse inspectie
+DESCRIPTION:Controleer vanaf een veilige positie de toegankelijke putdeks
+ el\, toevoer\, overloop en eventuele voorfilter op vuil of verstopping. 
+ Kijk of er overmatige slibophoping is en of de pomp normaal werkt. Ga no
+ oit zelf de regenwaterput in\; besloten ruimten kunnen levensgevaarlijk 
+ zijn. Reinig de put alleen indien nodig door een geschikte vakman.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regen-niveau-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Regenwater - niveau en toevoer controleren
+DESCRIPTION:Controleer regenwaterniveau indien veilig zichtbaar\, werking
+  van eventuele automatische omschakeling en toevoer naar toiletten of bu
+ itenkranen. Controleer op lekken en onverklaard pompgebruik. Houd regenw
+ ater en drinkwaterinstallatie correct gescheiden.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:regen-niveau-9@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271001
+SUMMARY:🟢 Regenwater - niveau en toevoer controleren
+DESCRIPTION:Controleer regenwaterniveau indien veilig zichtbaar\, werking
+  van eventuele automatische omschakeling en toevoer naar toiletten of bu
+ itenkranen. Controleer op lekken en onverklaard pompgebruik. Houd regenw
+ ater en drinkwaterinstallatie correct gescheiden.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-status-1@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:🟢 Huawei-omvormer - status en alarmen controleren
+DESCRIPTION:Controleer in de monitoringapp of de omvormer online is\, nor
+ maal produceert en geen actieve alarmen heeft. Controleer trends op uitv
+ al of plots lagere opbrengst. Raak geen DC-stekkers of interne elektrisc
+ he onderdelen aan\; laat foutmeldingen zo nodig door de installateur ond
+ erzoeken.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-status-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Huawei-omvormer - status en alarmen controleren
+DESCRIPTION:Controleer in de monitoringapp of de omvormer online is\, nor
+ maal produceert en geen actieve alarmen heeft. Controleer trends op uitv
+ al of plots lagere opbrengst. Raak geen DC-stekkers of interne elektrisc
+ he onderdelen aan\; laat foutmeldingen zo nodig door de installateur ond
+ erzoeken.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-status-7@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270801
+SUMMARY:🟢 Huawei-omvormer - status en alarmen controleren
+DESCRIPTION:Controleer in de monitoringapp of de omvormer online is\, nor
+ maal produceert en geen actieve alarmen heeft. Controleer trends op uitv
+ al of plots lagere opbrengst. Raak geen DC-stekkers of interne elektrisc
+ he onderdelen aan\; laat foutmeldingen zo nodig door de installateur ond
+ erzoeken.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-status-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Huawei-omvormer - status en alarmen controleren
+DESCRIPTION:Controleer in de monitoringapp of de omvormer online is\, nor
+ maal produceert en geen actieve alarmen heeft. Controleer trends op uitv
+ al of plots lagere opbrengst. Raak geen DC-stekkers of interne elektrisc
+ he onderdelen aan\; laat foutmeldingen zo nodig door de installateur ond
+ erzoeken.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-visueel-4@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270501
+SUMMARY:🟢 Zonnepanelen - visuele controle vanaf de grond
+DESCRIPTION:Bekijk panelen veilig vanaf de grond op zichtbare schade\, zw
+ are vervuiling\, losliggende delen of schaduw door nieuwe begroeiing. Co
+ ntroleer visueel toegankelijke kabeltrajecten zonder aansluitingen te op
+ enen. Betreed het dak niet voor deze controle\; laat schade professionee
+ l beoordelen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-visueel-10@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271101
+SUMMARY:🟢 Zonnepanelen - visuele controle vanaf de grond
+DESCRIPTION:Bekijk panelen veilig vanaf de grond op zichtbare schade\, zw
+ are vervuiling\, losliggende delen of schaduw door nieuwe begroeiing. Co
+ ntroleer visueel toegankelijke kabeltrajecten zonder aansluitingen te op
+ enen. Betreed het dak niet voor deze controle\; laat schade professionee
+ l beoordelen.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:pv-jaar@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270201
+SUMMARY:🟢 Zonnepanelen - jaaropbrengst vergelijken
+DESCRIPTION:Noteer de totale productie van het vorige kalenderjaar via de
+  monitoringapp. Vergelijk met eerdere jaren en houd rekening met weer\, 
+ schaduw en eventuele storingen. Controleer of er terugkerende alarmen wa
+ ren en bespreek grote afwijkingen met de installateur.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
+END:VEVENT
+BEGIN:VEVENT
+UID:technisch-jaar@jonas-dw-onderhoud
+DTSTAMP:20261125T130000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20271001
+SUMMARY:🟢 Technische installaties - jaarlijkse opvolging
+DESCRIPTION:Loop onderhoudsrapporten en meldingen van warmtepomp\, regenw
+ aterpomp\, ventilatie en zonnepanelen na. Controleer garantievoorwaarden
+  en aanbevolen professionele controles. Plan zo nodig een vakman\; open 
+ geen elektrische of koeltechnische onderdelen zelf.
+RRULE:FREQ=YEARLY
+TRANSP:TRANSPARENT
+CATEGORIES:Periodeonderhoud
+X-ONDERHOUD-TYPE:PERIODE
 END:VEVENT
 END:VCALENDAR
