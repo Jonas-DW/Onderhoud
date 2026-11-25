@@ -5,50 +5,6 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Tuin en woning onderhoud
 BEGIN:VEVENT
-UID:purifo-maand@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:💧 Purifo TRIO - filter 1 reinigen
-DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
-RRULE:FREQ=YEARLY;BYMONTH=1,2,3,5,6,7,8,9,11,12;BYMONTHDAY=3
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:purifo-halfjaar@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270403
-SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
-DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
-RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:vasco-reinigen@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270103
-SUMMARY:🌬️ Vasco DX4 - filters reinigen
-DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
-RRULE:FREQ=YEARLY;BYMONTH=1,7;BYMONTHDAY=3
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
-UID:vasco-vervangen@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270403
-SUMMARY:🌬️ Vasco DX4 - filters vervangen
-DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
-RRULE:FREQ=YEARLY;BYMONTH=4,10;BYMONTHDAY=3
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
 UID:buiten-weekend-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270102
@@ -226,16 +182,6 @@ CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
-UID:purifo-dec-2026@jonas-dw-onderhoud
-DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20261203
-SUMMARY:💧 Purifo TRIO - filter 1 reinigen
-DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
-END:VEVENT
-BEGIN:VEVENT
 UID:woning-maand@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261219
@@ -326,9 +272,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:technisch-jaar@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20271001
-SUMMARY:🛠️ Jaarlijkse technische controle woning
+DTSTART;VALUE=DATE:20270904
+SUMMARY:🛠️ Jaarlijkse technische controle woning (eerste weekend sep
+ tember)
 DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamh
  eden aan elektrische installaties\, koelmiddelcircuit of besloten ruimte
  n over aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleer
@@ -337,9 +283,92 @@ DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamh
  eks\n\n3. Regenwaterniveau en toevoer\nControleer regenwaterniveau indie
  n veilig zichtbaar\, werking\n\n4. Algemene technische opvolging\nLoop o
  nderhoudsrapporten en meldingen van warmtepomp\, regenw
-RRULE:FREQ=YEARLY
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
 TRANSP:TRANSPARENT
-CATEGORIES:Periodeonderhoud
-X-ONDERHOUD-TYPE:PERIODE
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:purifo-filter1-monthly-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20261203
+SUMMARY:💧 Purifo TRIO - filter 1 reinigen
+DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
+ \nIn april en oktober valt deze controle samen met het halfjaarlijkse ve
+ rvangen van filters 2 en 3.
+RRULE:FREQ=MONTHLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:purifo-replace-4-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
+DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
+ \nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op 
+ dezelfde datum is hiervoor dezelfde handeling.
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:purifo-replace-10-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20271003
+SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
+DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
+ \nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op 
+ dezelfde datum is hiervoor dezelfde handeling.
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-1-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20270103
+SUMMARY:🌬️ Vasco DX4 - filters reinigen
+DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-4-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20270403
+SUMMARY:🌬️ Vasco DX4 - filters vervangen
+DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-7-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20270703
+SUMMARY:🌬️ Vasco DX4 - filters reinigen
+DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:vasco-10-v2@jonas-dw-onderhoud
+DTSTAMP:20261125T140000Z
+DTSTART;VALUE=DATE:20271003
+SUMMARY:🌬️ Vasco DX4 - filters vervangen
+DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
+RRULE:FREQ=YEARLY;INTERVAL=1
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 END:VCALENDAR
