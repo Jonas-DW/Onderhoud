@@ -371,6 +371,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
+
 BEGIN:VEVENT
 UID:ivarem-2026-hv-20260714@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
@@ -446,12 +447,12 @@ UID:ivarem-2026-gft-20260706@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -460,12 +461,12 @@ UID:ivarem-2026-gft-20260720@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -544,12 +545,12 @@ UID:ivarem-2026-gft-20260803@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -558,12 +559,12 @@ UID:ivarem-2026-gft-20260817@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -572,12 +573,12 @@ UID:ivarem-2026-gft-20260831@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -670,12 +671,12 @@ UID:ivarem-2026-gft-20260914@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -684,12 +685,12 @@ UID:ivarem-2026-gft-20260928@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -768,12 +769,12 @@ UID:ivarem-2026-gft-20261005@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -782,12 +783,12 @@ UID:ivarem-2026-gft-20261019@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -866,12 +867,12 @@ UID:ivarem-2026-gft-20261109@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -880,12 +881,12 @@ UID:ivarem-2026-gft-20261123@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -978,12 +979,12 @@ UID:ivarem-2026-gft-20261207@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
@@ -992,13 +993,14 @@ UID:ivarem-2026-gft-20261221@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-SUMMARY:🌿 GFT
+SUMMARY:♻️ GFT
 DESCRIPTION:IVAREM zone Paars (Muizen en omgeving). Gustaaf Ghijselstraat 21\, 2812 Muizen. Zet het afval tijdig buiten: de ophaling start om 06:00. Officiele kalender: https://www.ivarem.be/sites/default/files/2026-05/afvalkalender_2026_deel2_mechelen_F_v03.pdf
 LOCATION:Gustaaf Ghijselstraat 21, 2812 Muizen
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Morgen ophaling: 🌿 GFT. Zet het afval buiten.
+DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
+
 END:VCALENDAR
