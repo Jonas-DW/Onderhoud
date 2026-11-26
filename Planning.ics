@@ -9,9 +9,9 @@ UID:buiten-weekend-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270102
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Winterrust tuin\nLaat prairieplanten en 
- siergrassen staan voor insecten en win
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Winterrust tuin\nLaat prairieplanten en
+siergrassen staan voor insecten en win
 RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -22,9 +22,9 @@ UID:buiten-weekend-2@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270206
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Blauweregen wintersnoei\nKort de zijtakk
- en van de blauweregen in tot circa 2 a 3 knopp
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Blauweregen wintersnoei\nKort de zijtakk
+en van de blauweregen in tot circa 2 a 3 knopp
 RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -35,14 +35,14 @@ UID:buiten-weekend-3@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270306
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Prairieplanten en siergrassen snoeien\nK
- nip oude stengels en siergrassen terug tot circa 10 a 15 cm \n\nGardena 
- SILENO minimo - reinigen\nSchakel de robotmaaier uit volgens de handleid
- ing en draag ha\n\nTerras - voorjaarsreiniging\nVeeg bladeren en vuil we
- g\, reinig met een voor de tegelsoort\n\nGardena SILENO minimo - opstart
- en en begrenzingsdraad contro\nControleer eerst de volledige zichtbare r
- oute van begrenzings
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Prairieplanten en siergrassen snoeien\nK
+nip oude stengels en siergrassen terug tot circa 10 a 15 cm \n\nGardena
+SILENO minimo - reinigen\nSchakel de robotmaaier uit volgens de handleid
+ing en draag ha\n\nTerras - voorjaarsreiniging\nVeeg bladeren en vuil we
+g\, reinig met een voor de tegelsoort\n\nGardena SILENO minimo - opstart
+en en begrenzingsdraad contro\nControleer eerst de volledige zichtbare r
+oute van begrenzings
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -53,14 +53,14 @@ UID:buiten-weekend-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Gazon bemesten en borders verzorgen\nGee
- f het gazon passende voorjaarsbemesting volgens productdos\n\nTerras - t
- egels\, voegen en afwatering controleren\nLoop het terras na op losse of
-  verzakte tegels\, open voegen \n\nGardena SILENO minimo - mesjes contro
- leren\nSchakel de maaier volledig uit en draag handschoenen. Control\n\n
- Gardena SILENO minimo - laadstation controleren\nControleer of de maaier
-  betrouwbaar dockt en laadt. Verwijder
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Gazon bemesten en borders verzorgen\nGee
+f het gazon passende voorjaarsbemesting volgens productdos\n\nTerras - t
+egels\, voegen en afwatering controleren\nLoop het terras na op losse of
+verzakte tegels\, open voegen \n\nGardena SILENO minimo - mesjes contro
+leren\nSchakel de maaier volledig uit en draag handschoenen. Control\n\n
+Gardena SILENO minimo - laadstation controleren\nControleer of de maaier
+betrouwbaar dockt en laadt. Verwijder
 RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -71,9 +71,9 @@ UID:buiten-weekend-5@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270501
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Onkruid verwijderen en jonge planten con
- troleren\nWied onkruid met wortel en controleer jonge aanplant. Geef bi
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Onkruid verwijderen en jonge planten con
+troleren\nWied onkruid met wortel en controleer jonge aanplant. Geef bi
 RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -84,11 +84,11 @@ UID:buiten-weekend-6@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270605
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Vaste planten en gazon verzorgen\nVerwij
- der storend onkruid\, controleer steunbehoefte van hoge\n\nGardena SILEN
- O minimo - mesjes controleren\nSchakel de maaier volledig uit en draag h
- andschoenen. Control
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Vaste planten en gazon verzorgen\nVerwij
+der storend onkruid\, controleer steunbehoefte van hoge\n\nGardena SILEN
+O minimo - mesjes controleren\nSchakel de maaier volledig uit en draag h
+andschoenen. Control
 RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -99,11 +99,11 @@ UID:buiten-weekend-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270703
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Blauweregen zomersnoei\nKort lange nieuw
- e zijscheuten in tot circa 5 a 6 bladeren. Le\n\nGardena SILENO minimo -
-  laadstation controleren\nControleer of de maaier betrouwbaar dockt en l
- aadt. Verwijder
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Blauweregen zomersnoei\nKort lange nieuw
+e zijscheuten in tot circa 5 a 6 bladeren. Le\n\nGardena SILENO minimo -
+laadstation controleren\nControleer of de maaier betrouwbaar dockt en l
+aadt. Verwijder
 RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -114,11 +114,11 @@ UID:buiten-weekend-8@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270807
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Blauweregen en droogtecontrole\nControle
- er nieuwe uitlopers en snoei zo nodig bij. Kijk of jo\n\nGardena SILENO 
- minimo - mesjes controleren\nSchakel de maaier volledig uit en draag han
- dschoenen. Control
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Blauweregen en droogtecontrole\nControle
+er nieuwe uitlopers en snoei zo nodig bij. Kijk of jo\n\nGardena SILENO
+minimo - mesjes controleren\nSchakel de maaier volledig uit en draag han
+dschoenen. Control
 RRULE:FREQ=YEARLY;BYMONTH=8;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -129,9 +129,9 @@ UID:buiten-weekend-9@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270904
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Gazon herstellen en vaste planten delen\
- nZaai kale plekken bij bij geschikt weer en voldoende bodemvoc
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Gazon herstellen en vaste planten delen\
+nZaai kale plekken bij bij geschikt weer en voldoende bodemvoc
 RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -142,12 +142,12 @@ UID:buiten-weekend-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271002
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Herfstonderhoud tuin\nHaal blad van het 
- gazon en uit afvoerpunten. Laat zaadhoofden\n\nTerras - tegels\, voegen 
- en afwatering controleren\nLoop het terras na op losse of verzakte tegel
- s\, open voegen \n\nGardena SILENO minimo - laadstation controleren\nCon
- troleer of de maaier betrouwbaar dockt en laadt. Verwijder
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Herfstonderhoud tuin\nHaal blad van het
+gazon en uit afvoerpunten. Laat zaadhoofden\n\nTerras - tegels\, voegen
+en afwatering controleren\nLoop het terras na op losse of verzakte tegel
+s\, open voegen \n\nGardena SILENO minimo - laadstation controleren\nCon
+troleer of de maaier betrouwbaar dockt en laadt. Verwijder
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -158,11 +158,11 @@ UID:buiten-weekend-11@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271106
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Tuin winterklaar maken\nControleer klimp
- lanten\, boombanden en losse takken. Gebruik \n\nGardena SILENO minimo -
-  winterstalling\nReinig en inspecteer de robot\, verwijder grasresten en
-  contr
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Tuin winterklaar maken\nControleer klimp
+lanten\, boombanden en losse takken. Gebruik \n\nGardena SILENO minimo -
+winterstalling\nReinig en inspecteer de robot\, verwijder grasresten en
+contr
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -173,9 +173,9 @@ UID:buiten-weekend-12@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271204
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan 
- weer en groeistadium.\n\nTuin - Winterrust en controle\nLaat siergrassen
-  en zaadhoofden staan. Controleer na storm op
+DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aan
+weer en groeistadium.\n\nTuin - Winterrust en controle\nLaat siergrassen
+en zaadhoofden staan. Controleer na storm op
 RRULE:FREQ=YEARLY;BYMONTH=12;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -187,8 +187,8 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261219
 SUMMARY:🏠 Maandelijks woningonderhoud - doucheafvoer en zonnepanelen
 DESCRIPTION:1. Doucheafvoer reinigen\nVerwijder het rooster en de uitneem
- bare haarvanger of sifonin\n\n2. Zonnepanelen - maandopbrengst controler
- en\nOpen de monitoringapp (bij Huawei vaak FusionSolar). Controle
+bare haarvanger of sifonin\n\n2. Zonnepanelen - maandopbrengst controler
+en\nOpen de monitoringapp (bij Huawei vaak FusionSolar). Controle
 RRULE:FREQ=MONTHLY;BYDAY=3SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -200,13 +200,13 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270109
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
- elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
- troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
- pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
- roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
- oleer in de monitoringapp of de omvormer online is\, nor\n\nJaarlijkse o
- pbrengst zonnepanelen\nNoteer de totale productie van het vorige kalende
- rjaar via de
+elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
+troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
+pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
+roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
+oleer in de monitoringapp of de omvormer online is\, nor\n\nJaarlijkse o
+pbrengst zonnepanelen\nNoteer de totale productie van het vorige kalende
+rjaar via de
 RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -218,16 +218,16 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270410
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
- elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
- troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
- TIA R32 - buitenunit en condensafvoer controleren\nVerwijder los vuil ro
- ndom de buitenunit zodat aan- en afvoer \n\nRegenwaterpomp - kwartaalcon
- trole\nLaat een aangesloten tappunt kort lopen en controleer of de p\n\n
- Huawei-omvormer - status en alarmen controleren\nControleer in de monito
- ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
- e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
- de\, zw\n\nRegenwaterniveau en toevoer\nControleer regenwaterniveau indi
- en veilig zichtbaar\, werking
+elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
+troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
+TIA R32 - buitenunit en condensafvoer controleren\nVerwijder los vuil ro
+ndom de buitenunit zodat aan- en afvoer \n\nRegenwaterpomp - kwartaalcon
+trole\nLaat een aangesloten tappunt kort lopen en controleer of de p\n\n
+Huawei-omvormer - status en alarmen controleren\nControleer in de monito
+ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
+e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
+de\, zw\n\nRegenwaterniveau en toevoer\nControleer regenwaterniveau indi
+en veilig zichtbaar\, werking
 RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -239,11 +239,11 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270710
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
- elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
- troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
- pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
- roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
- oleer in de monitoringapp of de omvormer online is\, nor
+elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
+troleer de systeemdruk aan de hand van de installatiehandl\n\nRegenwater
+pomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen en cont
+roleer of de p\n\nHuawei-omvormer - status en alarmen controleren\nContr
+oleer in de monitoringapp of de omvormer online is\, nor
 RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -255,15 +255,15 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271009
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen
 DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd
- elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
- troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
- TIA R32 - buitenunit en condensafvoer controleren\nVerwijder los vuil ro
- ndom de buitenunit zodat aan- en afvoer \n\nRegenwaterpomp - kwartaalcon
- trole\nLaat een aangesloten tappunt kort lopen en controleer of de p\n\n
- Huawei-omvormer - status en alarmen controleren\nControleer in de monito
- ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
- e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
- de\, zw
+elen en noteer afwijkingen.\n\nToshiba ESTIA R32 - kwartaalcontrole\nCon
+troleer de systeemdruk aan de hand van de installatiehandl\n\nToshiba ES
+TIA R32 - buitenunit en condensafvoer controleren\nVerwijder los vuil ro
+ndom de buitenunit zodat aan- en afvoer \n\nRegenwaterpomp - kwartaalcon
+trole\nLaat een aangesloten tappunt kort lopen en controleer of de p\n\n
+Huawei-omvormer - status en alarmen controleren\nControleer in de monito
+ringapp of de omvormer online is\, nor\n\nZonnepanelen - visuele control
+e vanaf de grond\nBekijk panelen veilig vanaf de grond op zichtbare scha
+de\, zw
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -274,15 +274,15 @@ UID:technisch-jaar@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270904
 SUMMARY:🛠️ Jaarlijkse technische controle woning (eerste weekend sep
- tember)
+tember)
 DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamh
- eden aan elektrische installaties\, koelmiddelcircuit of besloten ruimte
- n over aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleer
-  of professioneel onderhoud nodig is volgens model\\\n\n2. Regenwaterput
-  inspecteren\nControleer vanaf een veilige positie de toegankelijke putd
- eks\n\n3. Regenwaterniveau en toevoer\nControleer regenwaterniveau indie
- n veilig zichtbaar\, werking\n\n4. Algemene technische opvolging\nLoop o
- nderhoudsrapporten en meldingen van warmtepomp\, regenw
+eden aan elektrische installaties\, koelmiddelcircuit of besloten ruimte
+n over aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleer
+of professioneel onderhoud nodig is volgens model\\\n\n2. Regenwaterput
+inspecteren\nControleer vanaf een veilige positie de toegankelijke putd
+eks\n\n3. Regenwaterniveau en toevoer\nControleer regenwaterniveau indie
+n veilig zichtbaar\, werking\n\n4. Algemene technische opvolging\nLoop o
+nderhoudsrapporten en meldingen van warmtepomp\, regenw
 RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -294,8 +294,8 @@ DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:💧 Purifo TRIO - filter 1 reinigen
 DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit
- \nIn april en oktober valt deze controle samen met het halfjaarlijkse ve
- rvangen van filters 2 en 3.
+\nIn april en oktober valt deze controle samen met het halfjaarlijkse ve
+rvangen van filters 2 en 3.
 RRULE:FREQ=MONTHLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -307,8 +307,8 @@ DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20270403
 SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
 DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
- \nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op 
- dezelfde datum is hiervoor dezelfde handeling.
+\nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op
+dezelfde datum is hiervoor dezelfde handeling.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -320,8 +320,8 @@ DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20271003
 SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
 DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis
- \nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op 
- dezelfde datum is hiervoor dezelfde handeling.
+\nReinig bij deze afspraak ook filter 1; de maandelijkse herinnering op
+dezelfde datum is hiervoor dezelfde handeling.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -371,7 +371,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
 X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
-
 BEGIN:VEVENT
 UID:ivarem-2026-hv-20260714@jonas-dw-onderhoud
 DTSTAMP:20261126T100000Z
@@ -1002,5 +1001,48 @@ DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
 END:VEVENT
-
+BEGIN:VEVENT
+UID:philips-week@jonas-dw-onderhoud
+DTSTAMP:20261126T110000Z
+DTSTART;VALUE=DATE:20261128
+SUMMARY:☕ Philips 5400 - wekelijkse reiniging
+DESCRIPTION:Spoel de uitneembare zetgroep onder lauw water zonder afwasmiddel en laat drogen. Reinig waterreservoir en koffiedikbak\; leeg lekbak indien nodig. Spoel LatteGo na ieder gebruik met melk meteen af\; deze taak is geen vervanging voor reiniging na elk gebruik.
+RRULE:FREQ=WEEKLY;BYDAY=SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:philips-month@jonas-dw-onderhoud
+DTSTAMP:20261126T110000Z
+DTSTART;VALUE=DATE:20261205
+SUMMARY:☕ Philips 5400 - maandelijks ontvetten
+DESCRIPTION:Reinig de zetgroep volgens de Philips procedure met CA6704 koffieolieverwijderingstablet. Volg de aanwijzingen voor dit model\; tablet niet zomaar in bonenreservoir doen. Controleer koffie-uitloop.
+RRULE:FREQ=MONTHLY;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:philips-grease@jonas-dw-onderhoud
+DTSTAMP:20261126T110000Z
+DTSTART;VALUE=DATE:20270102
+SUMMARY:☕ Philips 5400 - zetgroep smeren
+DESCRIPTION:Spoel en droog zetgroep. Smeer dun met geschikt Philips/Saeco zetgroepvet op zuiger\, as onderaan en beide geleiders. Bij intensief gebruik eerder uitvoeren.
+RRULE:FREQ=MONTHLY;INTERVAL=2;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
+BEGIN:VEVENT
+UID:philips-descale@jonas-dw-onderhoud
+DTSTAMP:20261126T110000Z
+DTSTART;VALUE=DATE:20270306
+SUMMARY:☕ Philips 5400 - ontkalking controleren
+DESCRIPTION:Controleer melding voor ontkalken. Met correct geactiveerde AquaClean-filter niet op vaste datum ontkalken\; volg de melding op het toestel. Gebruik geschikte Philips-ontkalker en geen azijn.
+RRULE:FREQ=MONTHLY;INTERVAL=3;BYDAY=1SA
+TRANSP:TRANSPARENT
+CATEGORIES:Vast onderhoud
+X-ONDERHOUD-TYPE:VASTE-DATUM
+END:VEVENT
 END:VCALENDAR
