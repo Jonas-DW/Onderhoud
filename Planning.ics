@@ -9,9 +9,10 @@ UID:buiten-weekend-1@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270102
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Winterrust tuin\nLaat prairieplanten ensiergr
- assen staan voor insecten en win
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nControleer stormschade. Laat prairieplanten en siergrassen staan als w
+ interbeschutting. Controleer klimplanten en de winterstalling van de Garde
+ na.
 RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -22,9 +23,9 @@ UID:buiten-weekend-2@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270206
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Blauweregen wintersnoei\nKort de zijtakken va
- n de blauweregen in tot circa 2 a 3 knopp
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nSnoei blauweregen bij vorstvrij weer: zijscheuten terug tot circa 2 à
+  3 knoppen. Controleer bevestigingen en winterstalling van Gardena.
 RRULE:FREQ=YEARLY;BYMONTH=2;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -35,14 +36,11 @@ UID:buiten-weekend-3@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270306
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Prairieplanten en siergrassen snoeien\nKnip o
- ude stengels en siergrassen terug tot circa 10 a 15 cm \n\nGardenaSILENO m
- inimo - reinigen\nSchakel de robotmaaier uit volgens de handleiding en dra
- ag ha\n\nTerras - voorjaarsreiniging\nVeeg bladeren en vuil weg\, reinig m
- et een voor de tegelsoort\n\nGardena SILENO minimo - opstarten en begrenzi
- ngsdraad contro\nControleer eerst de volledige zichtbare route van begrenz
- ings
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nSnoei oude siergrassen en prairieplanten terug tot circa 10 à 15 cm z
+ onder nieuwe scheuten te beschadigen. Reinig terras. Reinig Gardena en con
+ troleer de volledige zichtbare begrenzingsdraad en aansluitingen vóór de
+  opstart.
 RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -53,14 +51,10 @@ UID:buiten-weekend-4@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270403
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Gazon bemesten en borders verzorgen\nGeef het
-  gazon passende voorjaarsbemesting volgens productdos\n\nTerras - tegels\,
-  voegen en afwatering controleren\nLoop het terras na op losse ofverzakte 
- tegels\, open voegen \n\nGardena SILENO minimo - mesjes controleren\nSchak
- el de maaier volledig uit en draag handschoenen. Control\n\nGardena SILENO
-  minimo - laadstation controleren\nControleer of de maaierbetrouwbaar dock
- t en laadt. Verwijder
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nBemest gazon volgens dosering\, wied borders en controleer terrastegel
+ s\, voegen en afwatering. Schakel Gardena uit en controleer mesjes en laad
+ station.
 RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -71,9 +65,10 @@ UID:buiten-weekend-5@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270501
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Onkruid verwijderen en jonge planten controle
- ren\nWied onkruid met wortel en controleer jonge aanplant. Geef bi
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nWied onkruid\, controleer jonge aanplant en geef water bij droogte. Co
+ ntroleer Gardena op vuil\, vastgelopen gras en slijtage\; controleer terra
+ svoegen.
 RRULE:FREQ=YEARLY;BYMONTH=5;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -84,11 +79,9 @@ UID:buiten-weekend-6@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270605
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Vaste planten en gazon verzorgen\nVerwijder s
- torend onkruid\, controleer steunbehoefte van hoge\n\nGardena SILENO minim
- o - mesjes controleren\nSchakel de maaier volledig uit en draag handschoen
- en. Control
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nVerzorg vaste planten en gazon\; controleer op droogte. Reinig Gardena
+  en controleer laadstation en afwatering van terras.
 RRULE:FREQ=YEARLY;BYMONTH=6;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -99,11 +92,10 @@ UID:buiten-weekend-7@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270703
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Blauweregen zomersnoei\nKort lange nieuwe zij
- scheuten in tot circa 5 a 6 bladeren. Le\n\nGardena SILENO minimo -laadsta
- tion controleren\nControleer of de maaier betrouwbaar dockt en laadt. Verw
- ijder
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nControleer gazon en borders op droogte en geef gericht water. Controle
+ er Gardena-mesjes na uitschakelen\, reinig wielen en inspecteer terrasafvo
+ er.
 RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -114,11 +106,9 @@ UID:buiten-weekend-8@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270807
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Blauweregen en droogtecontrole\nControleer ni
- euwe uitlopers en snoei zo nodig bij. Kijk of jo\n\nGardena SILENOminimo -
-  mesjes controleren\nSchakel de maaier volledig uit en draag handschoenen.
-  Control
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nSnoei lange zijscheuten van blauweregen volgens zomersnoei. Controleer
+  planten op droogtestress. Reinig Gardena en controleer laadstation.
 RRULE:FREQ=YEARLY;BYMONTH=8;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -129,9 +119,9 @@ UID:buiten-weekend-9@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270904
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Gazon herstellen en vaste planten delen\nZaai
-  kale plekken bij bij geschikt weer en voldoende bodemvoc
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nZaai kale gazonplekken bij bij geschikt weer. Deel geschikte vaste pla
+ nten\, geef water na aanplant. Controleer Gardena en terras.
 RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -142,12 +132,9 @@ UID:buiten-weekend-10@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271002
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Herfstonderhoud tuin\nHaal blad van hetgazon 
- en uit afvoerpunten. Laat zaadhoofden\n\nTerras - tegels\, voegenen afwate
- ring controleren\nLoop het terras na op losse of verzakte tegels\, open vo
- egen \n\nGardena SILENO minimo - laadstation controleren\nControleer of de
-  maaier betrouwbaar dockt en laadt. Verwijder
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nVerwijder blad van gazon\, terras en afvoer. Laat prairiezaadhoofden s
+ taan. Controleer Gardena en bereid winterstalling voor.
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -158,10 +145,9 @@ UID:buiten-weekend-11@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271106
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Tuin winterklaar maken\nControleer klimplante
- n\, boombanden en losse takken. Gebruik \n\nGardena SILENO minimo -winters
- talling\nReinig en inspecteer de robot\, verwijder grasresten encontr
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nMaak terrasafvoer vrij van blad en controleer klimplanten. Reinig Gard
+ ena\, schakel uit en berg droog en vorstvrij op volgens handleiding.
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -172,9 +158,9 @@ UID:buiten-weekend-12@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271204
 SUMMARY:🌿 Tuin\, terras en Gardena - maandonderhoud
-DESCRIPTION:Uit te voeren tijdens dit weekend. Pas werkzaamheden aan aanwee
- r en groeistadium.\n\nTuin - Winterrust en controle\nLaat siergrassenen za
- adhoofden staan. Controleer na storm op
+DESCRIPTION:Tuin\, terras en Gardena. Pas aan het weer en groeistadium aan.
+ \n\nLaat siergrassen en zaadhoofden staan. Controleer stormschade\, gladhe
+ id\, terrasafvoer en winterstalling van Gardena.
 RRULE:FREQ=YEARLY;BYMONTH=12;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -184,20 +170,13 @@ BEGIN:VEVENT
 UID:woning-maand@jonas-dw-onderhoud
 DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20261219
-SUMMARY:🏠 Maandelijks woningonderhoud 
-DESCRIPTION:1. Doucheafvoer reinigen\nVerwijder het rooster en de uitneem\n
- \nDreame X50 Ultra - maandelijks onderhoud\n1. Reinig wasbord en wasbordfi
- lter van het basisstation; verwijder vuil en haren.\n2. Reinig stofbakfilt
- er volgens handleiding; indien afgespoeld minimaal 24 uur volledig laten d
- rogen.\n3. Veeg sensoren, camera, laadcontacten en signaalzone voorzichtig
-  schoon met een droge zachte doek.\n4. Controleer hoofd- en zijborstels, w
- ielen en dweilpads op haren, blokkades en slijtage.\n5. Controleer stofzak
- , schoonwaterreservoir, vuilwaterreservoir en reinigingsmiddel; vervang, l
- eeg of vul bij indien nodig.\n6. Controleer in Dreamehome de resterende le
- vensduur van onderdelen.\nLet op: vuilwaterreservoir eerder legen en uitsp
- oelen na gebruik; volg meldingen van het toestel.bare haarvanger of sifoni
- n\n\n2. Zonnepanelen - maandopbrengst controleren\nOpen de monitoringapp (
- bij Huawei vaak FusionSolar). Controle
+SUMMARY:🏠 Maandelijks woningonderhoud - doucheafvoer en zonnepanelen
+DESCRIPTION:Doucheafvoer: verwijder rooster en haarvanger\, verwijder haren
+  en zeepresten\, spoel en plaats terug. Controleer doorstroming.\n\nZonnep
+ anelen: controleer maandopbrengst en alarmen in monitoringapp.\n\nDreame X
+ 50 Ultra: reinig wasbord en wasbordfilter\; controleer stofbakfilter\, bor
+ stels\, wielen\, dweilpads\, sensoren en laadcontacten. Controleer stofzak
+  en reinigingsmiddel. Spoel vuilwaterreservoir na gebruik. 
 RRULE:FREQ=MONTHLY;BYDAY=3SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -209,22 +188,14 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270109
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen\,
  🤖 Dreame X50
-DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd\n
- \n🤖 Dreame X50 Ultra - kwartaalonderhoud\n1. Controleer in Dreamehomede
-  levensduur van filter, dweilpads, zijborstel en hoofdborstels.\n2. Vervan
- g stofbakfilter indien de app dit aangeeft of bij slijtage; Dreame advisee
- rt vaak ongeveer 3 maanden.\n3. Controleer dweilpads op slijtage en vervan
- g indien nodig.\n4. Controleer stofzak en vervang zodra vol of volgens app
- melding.\n5. Inspecteer borstels en bevestigingen op slijtage; vervang ind
- ien nodig.\n6. Controleer waterdoorstroming en afdichtingen van basisstati
- on op vuil of lekkage.\nOpmerking: volg de appmeldingen; bij veel hondenha
- ar kan eerder onderhoud nodig zijn.elen en noteer afwijkingen.\n\nToshiba 
- ESTIA R32 - kwartaalcontrole\nControleer de systeemdruk aan de hand van de
-  installatiehandl\n\nRegenwaterpomp - kwartaalcontrole\nLaat een aangeslot
- en tappunt kort lopen en controleer of de p\n\nHuawei-omvormer - status en
-  alarmen controleren\nControleer in de monitoringapp of de omvormer online
-  is\, nor\n\nJaarlijkse opbrengst zonnepanelen\nNoteer de totale productie
-  van het vorige kalenderjaar via de
+DESCRIPTION:Toshiba ESTIA R32: controleer storingen\, systeemdruk volgens h
+ andleiding\, vrije luchttoevoer en zichtbare lekkages.\n\nRegenwaterpomp: 
+ test tappunt\, controleer druk\, geluiden en lekkages.\n\nZonnepanelen: co
+ ntroleer Huawei-omvormer\, alarmen en productie\; noteer in januari de jaa
+ ropbrengst.\n\nDreame X50 Ultra: controleer onderhoudsstatus in Dreamehome
+ \; vervang filter bij melding of slijtage\, inspecteer dweilpads en borste
+ ls\, vervang volle stofzak en controleer waterdoorstroming en afdichtingen
+ .
 RRULE:FREQ=YEARLY;BYMONTH=1;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -236,25 +207,14 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270410
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen\,
  🤖 Dreame X50
-DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd\n
- \n🤖 Dreame X50 Ultra - kwartaalonderhoud\n1. Controleer in Dreamehomede
-  levensduur van filter, dweilpads, zijborstel en hoofdborstels.\n2. Vervan
- g stofbakfilter indien de app dit aangeeft of bij slijtage; Dreame advisee
- rt vaak ongeveer 3 maanden.\n3. Controleer dweilpads op slijtage en vervan
- g indien nodig.\n4. Controleer stofzak en vervang zodra vol of volgens app
- melding.\n5. Inspecteer borstels en bevestigingen op slijtage; vervang ind
- ien nodig.\n6. Controleer waterdoorstroming en afdichtingen van basisstati
- on op vuil of lekkage.\nOpmerking: volg de appmeldingen; bij veel hondenha
- ar kan eerder onderhoud nodig zijn.elen en noteer afwijkingen.\n\nToshiba 
- ESTIA R32 - kwartaalcontrole\nControleer de systeemdruk aan de hand van de
-  installatiehandl\n\nToshiba ESTIA R32 - buitenunit en condensafvoer contr
- oleren\nVerwijder los vuil rondom de buitenunit zodat aan- en afvoer \n\nR
- egenwaterpomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen 
- en controleer of de p\n\nHuawei-omvormer - status en alarmen controleren\n
- Controleer in de monitoringapp of de omvormer online is\, nor\n\nZonnepane
- len - visuele controle vanaf de grond\nBekijk panelen veilig vanaf de gron
- d op zichtbare schade\, zw\n\nRegenwaterniveau en toevoer\nControleer rege
- nwaterniveau indien veilig zichtbaar\, werking
+DESCRIPTION:Toshiba ESTIA R32: controleer storingen\, systeemdruk volgens h
+ andleiding\, vrije luchttoevoer en zichtbare lekkages.\n\nRegenwaterpomp: 
+ test tappunt\, controleer druk\, geluiden en lekkages.\n\nZonnepanelen: co
+ ntroleer Huawei-omvormer\, alarmen en productie\; noteer in januari de jaa
+ ropbrengst.\n\nDreame X50 Ultra: controleer onderhoudsstatus in Dreamehome
+ \; vervang filter bij melding of slijtage\, inspecteer dweilpads en borste
+ ls\, vervang volle stofzak en controleer waterdoorstroming en afdichtingen
+ .
 RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -266,21 +226,14 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270710
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen\,
  🤖 Dreame X50
-DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd\n
- \n🤖 Dreame X50 Ultra - kwartaalonderhoud\n1. Controleer in Dreamehomede
-  levensduur van filter, dweilpads, zijborstel en hoofdborstels.\n2. Vervan
- g stofbakfilter indien de app dit aangeeft of bij slijtage; Dreame advisee
- rt vaak ongeveer 3 maanden.\n3. Controleer dweilpads op slijtage en vervan
- g indien nodig.\n4. Controleer stofzak en vervang zodra vol of volgens app
- melding.\n5. Inspecteer borstels en bevestigingen op slijtage; vervang ind
- ien nodig.\n6. Controleer waterdoorstroming en afdichtingen van basisstati
- on op vuil of lekkage.\nOpmerking: volg de appmeldingen; bij veel hondenha
- ar kan eerder onderhoud nodig zijn.elen en noteer afwijkingen.\n\nToshiba 
- ESTIA R32 - kwartaalcontrole\nControleer de systeemdruk aan de hand van de
-  installatiehandl\n\nRegenwaterpomp - kwartaalcontrole\nLaat een aangeslot
- en tappunt kort lopen en controleer of de p\n\nHuawei-omvormer - status en
-  alarmen controleren\nControleer in de monitoringapp of de omvormer online
-  is\, nor
+DESCRIPTION:Toshiba ESTIA R32: controleer storingen\, systeemdruk volgens h
+ andleiding\, vrije luchttoevoer en zichtbare lekkages.\n\nRegenwaterpomp: 
+ test tappunt\, controleer druk\, geluiden en lekkages.\n\nZonnepanelen: co
+ ntroleer Huawei-omvormer\, alarmen en productie\; noteer in januari de jaa
+ ropbrengst.\n\nDreame X50 Ultra: controleer onderhoudsstatus in Dreamehome
+ \; vervang filter bij melding of slijtage\, inspecteer dweilpads en borste
+ ls\, vervang volle stofzak en controleer waterdoorstroming en afdichtingen
+ .
 RRULE:FREQ=YEARLY;BYMONTH=7;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -292,24 +245,14 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20271009
 SUMMARY:🔧 Kwartaalonderhoud - warmtepomp\, regenwater en zonnepanelen\,
  🤖 Dreame X50
-DESCRIPTION:Gecombineerde kwartaalcontrole. Controleer de volgende onderd\n
- \n🤖 Dreame X50 Ultra - kwartaalonderhoud\n1. Controleer in Dreamehomede
-  levensduur van filter, dweilpads, zijborstel en hoofdborstels.\n2. Vervan
- g stofbakfilter indien de app dit aangeeft of bij slijtage; Dreame advisee
- rt vaak ongeveer 3 maanden.\n3. Controleer dweilpads op slijtage en vervan
- g indien nodig.\n4. Controleer stofzak en vervang zodra vol of volgens app
- melding.\n5. Inspecteer borstels en bevestigingen op slijtage; vervang ind
- ien nodig.\n6. Controleer waterdoorstroming en afdichtingen van basisstati
- on op vuil of lekkage.\nOpmerking: volg de appmeldingen; bij veel hondenha
- ar kan eerder onderhoud nodig zijn.elen en noteer afwijkingen.\n\nToshiba 
- ESTIA R32 - kwartaalcontrole\nControleer de systeemdruk aan de hand van de
-  installatiehandl\n\nToshiba ESTIA R32 - buitenunit en condensafvoer contr
- oleren\nVerwijder los vuil rondom de buitenunit zodat aan- en afvoer \n\nR
- egenwaterpomp - kwartaalcontrole\nLaat een aangesloten tappunt kort lopen 
- en controleer of de p\n\nHuawei-omvormer - status en alarmen controleren\n
- Controleer in de monitoringapp of de omvormer online is\, nor\n\nZonnepane
- len - visuele controle vanaf de grond\nBekijk panelen veilig vanaf de gron
- d op zichtbare schade\, zw
+DESCRIPTION:Toshiba ESTIA R32: controleer storingen\, systeemdruk volgens h
+ andleiding\, vrije luchttoevoer en zichtbare lekkages.\n\nRegenwaterpomp: 
+ test tappunt\, controleer druk\, geluiden en lekkages.\n\nZonnepanelen: co
+ ntroleer Huawei-omvormer\, alarmen en productie\; noteer in januari de jaa
+ ropbrengst.\n\nDreame X50 Ultra: controleer onderhoudsstatus in Dreamehome
+ \; vervang filter bij melding of slijtage\, inspecteer dweilpads en borste
+ ls\, vervang volle stofzak en controleer waterdoorstroming en afdichtingen
+ .
 RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=2SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -321,14 +264,10 @@ DTSTAMP:20261125T130000Z
 DTSTART;VALUE=DATE:20270904
 SUMMARY:🛠️ Jaarlijkse technische controle woning (eerste weekend septe
  mber)
-DESCRIPTION:Voer de jaarlijkse controles uit in september. Laat werkzaamhed
- en aan elektrische installaties\, koelmiddelcircuit of besloten ruimten ov
- er aan vakmensen.\n\n1. Warmtepomp en winterinstellingen\nControleerof pro
- fessioneel onderhoud nodig is volgens model\\\n\n2. Regenwaterputinspecter
- en\nControleer vanaf een veilige positie de toegankelijke putdeks\n\n3. Re
- genwaterniveau en toevoer\nControleer regenwaterniveau indien veilig zicht
- baar\, werking\n\n4. Algemene technische opvolging\nLoop onderhoudsrapport
- en en meldingen van warmtepomp\, regenw
+DESCRIPTION:Controleer warmtepomp\, regenwaterpomp\, omvormer\, ventilatie 
+ en zichtbare leidingen op storingen\, lekkages en vervuiling. Test rookmel
+ ders volgens handleiding. Controleer vochtsporen en kitnaden. Laat special
+ istische controles aan vakmensen over.
 RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=1SA
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -339,9 +278,9 @@ UID:purifo-filter1-monthly-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:💧 Purifo TRIO - filter 1 reinigen
-DESCRIPTION:Reinig het 90 micron voorfilter volgens de handleiding. Sluit\n
- In april en oktober valt deze controle samen met het halfjaarlijkse vervan
- gen van filters 2 en 3.
+DESCRIPTION:Purifo TRIO: reinig filter 1 volgens fabrikant. Sluit watertoev
+ oer af indien vereist\, maak drukloos\, reinig filter en behuizing\, monte
+ er en controleer op lekken.
 RRULE:FREQ=MONTHLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -352,9 +291,10 @@ UID:purifo-replace-4-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20270403
 SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
-DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis\n
- Reinig bij deze afspraak ook filter 1; de maandelijkse herinnering opdezel
- fde datum is hiervoor dezelfde handeling.
+DESCRIPTION:Purifo TRIO: vervang filters 2 en 3 door voorgeschreven types. 
+ Sluit water af\, maak drukloos\, controleer dichtingen\, plaats filters\, 
+ spoel volgens handleiding en controleer op lekken. Reinig filter 1 meteen 
+ mee.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -365,9 +305,10 @@ UID:purifo-replace-10-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20271003
 SUMMARY:💧 Purifo TRIO - filters 2 en 3 vervangen
-DESCRIPTION:Vervang het 25 micron filter en actievekoolfilter met de juis\n
- Reinig bij deze afspraak ook filter 1; de maandelijkse herinnering opdezel
- fde datum is hiervoor dezelfde handeling.
+DESCRIPTION:Purifo TRIO: vervang filters 2 en 3 door voorgeschreven types. 
+ Sluit water af\, maak drukloos\, controleer dichtingen\, plaats filters\, 
+ spoel volgens handleiding en controleer op lekken. Reinig filter 1 meteen 
+ mee.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -378,7 +319,10 @@ UID:vasco-1-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20270103
 SUMMARY:🌬️ Vasco DX4 - filters reinigen
-DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
+DESCRIPTION:Vasco DX4: schakel ventilatie uit volgens handleiding. Reinig f
+ ilters indien toegestaan door fabrikant\; vervang beschadigde filters. Not
+ eer richting\, plaats correct terug\, reset filtermelding en controleer lu
+ chttoevoer.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -389,7 +333,9 @@ UID:vasco-4-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20270403
 SUMMARY:🌬️ Vasco DX4 - filters vervangen
-DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
+DESCRIPTION:Vasco DX4: schakel ventilatie uit volgens handleiding. Vervang 
+ filters door juiste types. Noteer richting\, plaats correct terug\, reset 
+ filtermelding en controleer luchttoevoer.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -400,7 +346,10 @@ UID:vasco-7-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20270703
 SUMMARY:🌬️ Vasco DX4 - filters reinigen
-DESCRIPTION:Schakel de unit zo nodig volgens de handleiding in servicesta
+DESCRIPTION:Vasco DX4: schakel ventilatie uit volgens handleiding. Reinig f
+ ilters indien toegestaan door fabrikant\; vervang beschadigde filters. Not
+ eer richting\, plaats correct terug\, reset filtermelding en controleer lu
+ chttoevoer.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -411,7 +360,9 @@ UID:vasco-10-v2@jonas-dw-onderhoud
 DTSTAMP:20261125T140000Z
 DTSTART;VALUE=DATE:20271003
 SUMMARY:🌬️ Vasco DX4 - filters vervangen
-DESCRIPTION:Vervang beide filters door het juiste type en let op de lucht
+DESCRIPTION:Vasco DX4: schakel ventilatie uit volgens handleiding. Vervang 
+ filters door juiste types. Noteer richting\, plaats correct terug\, reset 
+ filtermelding en controleer luchttoevoer.
 RRULE:FREQ=YEARLY;INTERVAL=1
 TRANSP:TRANSPARENT
 CATEGORIES:Vast onderhoud
@@ -1181,20 +1132,6 @@ ACTION:DISPLAY
 DESCRIPTION:Morgen ophaling: ♻️ GFT. Zet het afval buiten.
 TRIGGER:-PT6H
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:philips-week@jonas-dw-onderhoud
-DTSTAMP:20261126T110000Z
-DTSTART;VALUE=DATE:20261128
-SUMMARY:☕ Philips 5400 - wekelijkse reiniging
-DESCRIPTION:Spoel de uitneembare zetgroep onder lauw water zonder afwasmidd
- el en laat drogen. Reinig waterreservoir en koffiedikbak\; leeg lekbak ind
- ien nodig. Spoel LatteGo na ieder gebruik met melk meteen af\; deze taak i
- s geen vervanging voor reiniging na elk gebruik.
-RRULE:FREQ=WEEKLY;BYDAY=SA
-TRANSP:TRANSPARENT
-CATEGORIES:Vast onderhoud
-X-ONDERHOUD-TYPE:VASTE-DATUM
 END:VEVENT
 BEGIN:VEVENT
 UID:philips-month@jonas-dw-onderhoud
